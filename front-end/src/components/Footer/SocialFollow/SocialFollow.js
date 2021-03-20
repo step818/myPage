@@ -15,7 +15,7 @@ const SocialFollow = (props) => {
       <a href="https://github.com/step818" className={classes.icon}>
         <FontAwesomeIcon icon={faGithub} size="2x" color="lightblue" />
       </a>
-      <a href="https://www.facebook.com" className={classes.icon}>
+      <a href="https://www.facebook.com/stephen.trewick" className={classes.icon}>
         <FontAwesomeIcon icon={faFacebook} size="2x" color="lightblue" />
       </a>
       <a

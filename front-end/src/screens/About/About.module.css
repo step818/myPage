@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css?family=Berkshire+Swash&family=Roboto|Roboto&display=swap");
+
+.Jumbotron {
+    margin-top: 56px;
+    font-family: "Berkshire Swash", cursive;
+    font-size: 20px;
+    text-shadow: 0 0 10px rgb(51, 4, 73), 0 0 13px #3766bd, 0 0 20px #f11861;
+  }
+
+.ProfilePic img {
+    object-fit: cover;
+    border-radius: 50%;
+    width: 180px;
+    height: 180px;
+  }
+  
+.Paragraph {
+    font-family: "Berkshire Swash";
+    color: #6987be;
+    width: 60%;
+    height: auto;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}

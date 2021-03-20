@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { Route, Switch } from "react-router-dom";
 
-import Bio from "./screens/Bio";
+import About from "./screens/About/About";
 import Home from "./screens/Home/Home";
 import NotFound from "./screens/404NotFound/404NotFound";
 import Projects from "./screens/Projects";
@@ -15,7 +15,7 @@ class App extends Component {
         <Toolbar />
         <Switch>
           <Route path="/projects" component={Projects} />
-          <Route path="/bio" component={Bio} />
+          <Route path="/about" component={About} />
           <Route exact path="/" component={Home} />
           <Route component={NotFound} />
         </Switch>
