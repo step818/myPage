@@ -2,6 +2,8 @@
 
 .Home {
   color: lightblue;
+  font-family: "Berkshire Swash", cursive;
+  font-size: xx-large;
   height: 300px;
 }
 
@@ -9,7 +11,7 @@
   margin-top: 56px;
   font-family: "Berkshire Swash", cursive;
   font-size: 20px;
-  text-shadow: 0 0 10px rgb(51, 4, 73), 0 0 13px #3766bd, 0 0 20px #f11861;
+  text-shadow: 0 0 10px rgb(51, 4, 73), 0 10 13px #3766bd, 0 0 20px #f11861;
 }
 
 .Background {

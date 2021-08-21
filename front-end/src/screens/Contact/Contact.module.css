@@ -5,27 +5,21 @@
     font-family: "Berkshire Swash", cursive;
     font-size: 20px;
     text-shadow: 0 0 10px rgb(51, 4, 73), 0 0 13px #3766bd, 0 0 20px #f11861;
-  }
+}
 
-  .Background {
+.Background {
+    /* height: 450px; */
     max-width: 100%;
     background-position: -10px 0px;
     display: block;
-  }
+}
 
-.ProfilePic img {
-    object-fit: cover;
-    border-radius: 50%;
-    width: 180px;
-    height: 180px;
-  }
-  
 .Paragraph {
     font-family: "Berkshire Swash";
     color: lightblue;
-    text-shadow: 10 0 20px rgb(51, 4, 73), 0 0 23px #3766bd, 0 10 20px #f11861;
+    font-size: xx-large;
     width: 60%;
-    height: 300px;
+    height: 20em;
     text-align: center;
     display: block;
     margin-left: auto;

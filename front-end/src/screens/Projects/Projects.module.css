@@ -8,6 +8,7 @@
   }
 
   .Background {
+    /* height: 450px; */
     max-width: 100%;
     background-position: -10px 0px;
     display: block;
@@ -23,12 +24,32 @@
 .Paragraph {
     font-family: "Berkshire Swash";
     color: lightblue;
-    text-shadow: 10 0 20px rgb(51, 4, 73), 0 0 23px #3766bd, 0 10 20px #f11861;
+    font-size: xx-large;
     width: 60%;
-    height: 300px;
+    height: 20em;
     text-align: center;
     display: block;
     margin-left: auto;
     margin-right: auto;
     margin-top: 10px;
+}
+
+.link {
+  color:aliceblue;
+}
+
+.link:hover {
+  color: darkcyan;
+}
+
+.Description {
+  font-family: "Berkshire Swash";
+  color: lightblue;
+  text-shadow: 10 0 20px rgb(51, 4, 73), 0 0 23px #3766bd, 0 10 20px #f11861;
+  width: 60%;
+  height: 30%;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }

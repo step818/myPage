@@ -3,6 +3,7 @@ import face from "../../components/Images/forest_wanderer.jpg";
 import wormhole from "../../components/Images/wormhole-bgimg.jpg";
 import { Jumbotron } from "react-bootstrap";
 import classes from "./About.module.css";
+import Footer from "../../components/Footer/Footer";
 
 class About extends Component {
   render() {
@@ -38,6 +39,7 @@ class About extends Component {
                         a world problem. I also love to cycle, rock climb, build things, cook, and watch documentaries.
                 </h3>
               </div>
+              <Footer/>
           </div>;
   }
 }

@@ -32,7 +32,7 @@ class Home extends Component {
           </div>
         </div>
         <div className={classes.Home}>
-          <p>Website coming sooooooooooooooooon.</p>
+          <p>Website coming sooooooooooooooooon...</p>
         </div>
         <Footer />
       </div>
