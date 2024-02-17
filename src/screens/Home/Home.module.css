@@ -5,6 +5,12 @@
   font-family: "Berkshire Swash", cursive;
   font-size: xx-large;
   height: 300px;
+
+  min-height: 50vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
 
 .Jumbotron {

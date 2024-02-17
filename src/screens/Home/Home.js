@@ -1,10 +1,9 @@
 import React, { Component } from "react";
 
 import Footer from "../../components/Footer/Footer";
-import Header from "../../components/Header";
 import { Jumbotron } from "react-bootstrap";
 import classes from "./Home.module.css";
-import face from "../../components/Images/arms_crossed_1.jpg";
+import face from "../../components/Images/waterfall_selfie.jpg";
 import wormhole from "../../components/Images/wormhole-bgimg.jpg";
 
 class Home extends Component {
@@ -32,7 +31,7 @@ class Home extends Component {
           </div>
         </div>
         <div className={classes.Home}>
-          <p>Website coming sooooooooooooooooon...</p>
+          <p>Welcome to my site</p>
         </div>
         <Footer />
       </div>
