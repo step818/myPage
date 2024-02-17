@@ -51,7 +51,7 @@ class Projects extends Component {
           </div>
           <p>Description:</p>
           <p className={classes.Description}>
-            A mock site using RESTful routing to make get requests from a video
+            A mock site using Restful routing to make get requests from a video
             game api at Rawg.io
           </p>
           <p>
