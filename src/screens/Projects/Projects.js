@@ -52,12 +52,9 @@ class Projects extends Component {
           <p>Description:</p>
           <p className={classes.Description}>
             A mock site using Restful routing to make get requests from a video
-            game api at Rawg.io
-          </p>
-          <p>
-            The site utilizes custom hooks to update the state and uses ChakraUI
-            for styling. I make use of responsive rendering for small, medium,
-            and large screen sizes.
+            game api at Rawg.io. The site utilizes custom hooks to update the
+            state and uses ChakraUI for styling. I make use of responsive
+            rendering for small, medium, and large screen sizes.
           </p>
         </div>
 
