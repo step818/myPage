@@ -56,6 +56,17 @@ class Projects extends Component {
             state and uses ChakraUI for styling. I make use of responsive
             rendering for small, medium, and large screen sizes.
           </p>
+          <br></br>
+          <div>
+            <a className={classes.link} href="https://hangman-19d30.web.app/">
+              Hangman
+            </a>
+          </div>
+          <p>Description:</p>
+          <p className={classes.Description}>
+            A classic word guessing game made with React and styling using
+            ChakraUI
+          </p>
         </div>
 
         <Footer />
