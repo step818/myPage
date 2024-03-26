@@ -23,7 +23,7 @@ class Home extends Component {
               <div className={classes.ProfilePic}>
                 <h1 style={{ marginBottom: "-15px" }}>Stephen Trewick</h1>
                 <h2 style={{ marginBottom: "10px" }}>
-                  Student . Creative . Engineer
+                  Engineer . Creative . Student
                 </h2>
                 <img src={face} alt="My profile" />
               </div>

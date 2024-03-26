@@ -28,7 +28,7 @@ class About extends Component {
           </div>
         </div>
         <div className={classes.ProfilePic}>
-          <img src={face} alt="My profile image" />
+          <img src={face} alt="My profile" />
         </div>
         <div className={classes.Paragraph}>
           <h3>
